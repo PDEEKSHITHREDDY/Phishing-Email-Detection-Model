@@ -1,0 +1,9 @@
+text,label
+"Verify your bank account immediately by clicking this link",phishing
+"Your password has expired login now",phishing
+"Urgent action required verify your identity",phishing
+"Click here to win a free iPhone",phishing
+"Meeting scheduled tomorrow at 10 AM",safe
+"Project report has been submitted successfully",safe
+"Happy birthday have a wonderful day",safe
+"Please review the attached document",safe

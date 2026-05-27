@@ -1,0 +1,26 @@
+========== PHISHING EMAIL REPORT ==========
+
+Timestamp : 20260526_193948
+
+EMAIL CONTENT
+------------------------------------------
+
+    Sender: support@paypal-security.com
+    Subject: Verify Your Account Immediately
+
+    Dear User,
+
+Your account has been temporarily suspended.
+
+Click here immediately to verify your password:
+http://fake-paypal-login.com
+
+Failure to verify within 24 hours will result in account termination.
+
+Regards,
+PayPal Security Team
+    
+
+------------------------------------------
+Prediction : PHISHING
+Confidence : 68.38%
